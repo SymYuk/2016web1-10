@@ -8,7 +8,7 @@
 
 body
 {
-	background-color:silver;	
+	background-color:white;	
 }
 
 header
@@ -40,6 +40,10 @@ footer
 
 @media screen and (min-width:641px)
 {
+	body
+	{
+		background-color:silver;	
+	}
 	aside
 	{
 		width: calc(50% - 20px);
@@ -55,6 +59,10 @@ footer
 
 @media screen and(min-width:1025px)
 {
+	body
+	{
+		background-color:black;	
+	}
 	#main
 	{
 		max-width:1024px;
