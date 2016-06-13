@@ -55,10 +55,6 @@ footer
 
 @media screen and(min-width:1025px)
 {
-	header
-	{
-		max-width:1024px;
-	}
 	#main
 	{
 		max-width:1024px;
@@ -83,10 +79,6 @@ footer
 		content:"";
 		display:block;
 		clear:both;
-	}
-	footer
-	{
-		max-width:1024px;
 	}
 }
 
